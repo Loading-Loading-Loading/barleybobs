@@ -4,10 +4,10 @@ I'm a developer with understanding of Python, HTML, CSS, JS (and some JS librari
 
 ## Stats
 <a href="https://github.com/barleybobs/">
-  <img height="225px" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=barleybobs&langs_count=3e&theme=tokyonight&bg_color=22272e&border_color=444c56&text_color=768390&icon_color=768390" />
+  <img height="220px" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=barleybobs&langs_count=3e&theme=tokyonight&bg_color=22272e&border_color=444c56&text_color=768390&icon_color=768390" />
 </a>
 <a href="https://github.com/barleybobs">
-  <img height="225px" align="center" src="https://github-readme-stats.vercel.app/api?username=barleybobs&show_icons=true&line_height=27&theme=tokyonight&bg_color=22272e&border_color=444c56&text_color=768390&icon_color=768390" alt="barleybobs's GitHub Stats" />
+  <img height="220px" align="center" src="https://github-readme-stats.vercel.app/api?username=barleybobs&show_icons=true&line_height=27&theme=tokyonight&bg_color=22272e&border_color=444c56&text_color=768390&icon_color=768390" alt="barleybobs's GitHub Stats" />
 </a>
 
 
