@@ -1,6 +1,6 @@
 # Hi there 👋
 
-I'm a developer with understanding of Python, Html, Css, Js (and some Js libraries!)
+I'm a developer with understanding of Python, HTML, CSS, JS (and some JS libraries!)
 
 ## Stats
 <a href="https://github.com/barleybobs/">
