@@ -1,4 +1,4 @@
-# Hi there <img src="https://tenor.com/view/wave-hello-emote-flat-waving-gif-22026836" width="30px"> <!--👋-->
+# Hi there <img src="https://c.tenor.com/nebZyl8oN7IAAAAi/wave-hello.gif" width="30px"> <!--👋-->
 
 I'm a developer with understanding of Python, HTML, CSS, JS (and some JS libraries!)
 
