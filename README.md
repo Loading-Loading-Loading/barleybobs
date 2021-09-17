@@ -1,10 +1,13 @@
 # Hi there 👋
 
+I'm a developer with understanding of Python, Html, Css, Js (and some Js libraries!)
+
+### Stats
 <a href="https://github.com/barleybobs/">
-  <img height="250px" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=barleybobs&langs_count=3" />
+  <img height="210px" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=barleybobs&langs_count=3" />
 </a>
 <a href="https://github.com/barleybobs">
-  <img height="250px" align="center" src="https://github-readme-stats.vercel.app/api?username=barleybobs&show_icons=true&line_height=27" alt="barleybobs's GitHub Stats" />
+  <img height="210px" align="center" src="https://github-readme-stats.vercel.app/api?username=barleybobs&show_icons=true&line_height=27" alt="barleybobs's GitHub Stats" />
 </a>
 
 
