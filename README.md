@@ -2,7 +2,7 @@
 
 I'm a developer with understanding of Python, Html, Css, Js (and some Js libraries!)
 
-### Stats
+## Stats
 <a href="https://github.com/barleybobs/">
   <img height="210px" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=barleybobs&langs_count=3" />
 </a>
