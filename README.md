@@ -1,5 +1,11 @@
 # Hi there 👋
 
+<a href="https://github.com/barleybobs/">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=barleybobs&langs_count=3" />
+</a>
+<a href="https://github.com/barleybobs">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=barleybobs&show_icons=true&line_height=27" alt="barleybobs's GitHub Stats" />
+</a>
 
 
 <!--
